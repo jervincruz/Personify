@@ -1,0 +1,6 @@
+framework module Pods_Personify {
+  umbrella header "Pods-Personify-umbrella.h"
+
+  export *
+  module * { export * }
+}
